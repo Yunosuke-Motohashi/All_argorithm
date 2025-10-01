@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_j
+# A10 - Resort Hotel
 N = int(input())
 A_l = list(map(int, input().split()))
 
